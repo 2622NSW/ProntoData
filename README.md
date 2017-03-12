@@ -1,11 +1,11 @@
 # ProntoData
 This repository contains two files downloaded from the [Pronto open access bicycle data repository](https://www.prontocycleshare.com/data). 
 
-2016-12_station_data.csv
+[2016-12_station_data.csv](https://github.com/2622NSW/ProntoData/blob/master/2016-12_station_data.csv)
 
 2016_12_trip_data.csv
 
-For 2016-12_station_data.csv
+For [2016-12_station_data.csv](https://github.com/2622NSW/ProntoData/blob/master/2016-12_station_data.csv)
 
 -station_id: station ID number (corresponds to "from_station_id" and "to_station_id" in "2016-12_trip_data.csv")
 -name: name of station
