@@ -1,9 +1,9 @@
 # ProntoData
 This repository contains two files downloaded from the [Pronto open access bicycle data repository](https://www.prontocycleshare.com/data). 
 
-[2016-12_station_data.csv](https://github.com/2622NSW/ProntoData/blob/master/2016-12_station_data.csv)
+* [2016-12_station_data.csv](https://github.com/2622NSW/ProntoData/blob/master/2016-12_station_data.csv)
 
-2016_12_trip_data.csv
+* [2016_12_trip_data.csv](https://github.com/2622NSW/ProntoData/blob/master/2016-12_trip_data.csv.zip)
 
 For [2016-12_station_data.csv](https://github.com/2622NSW/ProntoData/blob/master/2016-12_station_data.csv)
 
@@ -17,7 +17,7 @@ For [2016-12_station_data.csv](https://github.com/2622NSW/ProntoData/blob/master
 -current_dockcount: number of docks at each station on 12/31/2016
 -decommission_date: date that station was placed out of service
 
-For 2016_12_trip_data.csv
+For [2016_12_trip_data.csv](https://github.com/2622NSW/ProntoData/blob/master/2016-12_trip_data.csv.zip)
 
 -trip_id: numeric ID of bike triptrip taken
 -starttime: day and time trip started, in PST
