@@ -1,6 +1,5 @@
 # ProntoData
-Two files downloaded from the Pronto open access bicycle data repository 
-There are two files.
+This repository contains two files downloaded from the [Pronto open access bicycle data repository](https://www.prontocycleshare.com/data). 
 
 2016-12_station_data.csv
 
